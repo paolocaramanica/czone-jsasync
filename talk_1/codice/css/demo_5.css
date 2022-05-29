@@ -1,0 +1,21 @@
+* {
+	font-family: Arial;
+}
+
+table {
+	margin: auto;
+}
+
+table th, table td{
+	border-bottom: 1px solid #333333;
+	padding: 4px;
+}
+
+
+table td {
+	text-align: right;
+}
+
+table tr:last-child {
+	background-color: #d9d9d9;
+}
